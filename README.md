@@ -7,8 +7,8 @@ business: ABN, ACN, entity status, website, industry and locations.
 ## Install
 
 ```
-claude plugin marketplace add farnell/datadingo-claude-plugin
-claude plugin install datadingo@datadingo
+claude plugin marketplace add datadingo-com/claude-plugin
+claude plugin install datadingo
 ```
 
 Then run `/mcp`, choose **datadingo** and **Authenticate**. Sign-in is one browser tab: your email
