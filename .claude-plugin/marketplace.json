@@ -1,0 +1,19 @@
+{
+  "name": "datadingo",
+  "owner": {
+    "name": "DataDingo",
+    "email": "hello@datadingo.com"
+  },
+  "metadata": {
+    "description": "DataDingo's Claude Code plugins: Australian company data for AI agents."
+  },
+  "plugins": [
+    {
+      "name": "datadingo",
+      "source": "./",
+      "description": "Look up and search every registered Australian business (ABN, ACN, entity status, website, industry, locations) through DataDingo's MCP server.",
+      "homepage": "https://datadingo.com/developers",
+      "category": "data"
+    }
+  ]
+}

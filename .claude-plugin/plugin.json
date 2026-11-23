@@ -1,0 +1,22 @@
+{
+  "name": "datadingo",
+  "version": "0.1.0",
+  "description": "Australian company data for AI agents: look up and search every registered Australian business through DataDingo's MCP server. Search and counts use no credits on an active account; a full company record costs 1 credit the first time your account gets it.",
+  "author": {
+    "name": "DataDingo",
+    "email": "hello@datadingo.com",
+    "url": "https://datadingo.com"
+  },
+  "homepage": "https://datadingo.com/developers",
+  "repository": "https://github.com/farnell/datadingo-claude-plugin",
+  "keywords": [
+    "australia",
+    "company data",
+    "abn",
+    "business data",
+    "mcp"
+  ],
+  "license": "MIT",
+  "privacyPolicyUrl": "https://www.datadingo.com/privacy",
+  "icon": ".claude-plugin/icon.png"
+}
