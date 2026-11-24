@@ -11,8 +11,8 @@
     {
       "name": "datadingo",
       "source": "./",
-      "description": "Look up and search every registered Australian business (ABN, ACN, entity status, website, industry, locations) through DataDingo's MCP server.",
-      "homepage": "https://datadingo.com/developers",
+      "description": "Find Australian businesses by industry, size, location and technology, find lookalikes, and see their latest news, through DataDingo's MCP server.",
+      "homepage": "https://docs.datadingo.com/connect-an-ai-agent",
       "category": "data"
     }
   ]
